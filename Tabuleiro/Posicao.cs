@@ -1,3 +1,5 @@
+using ConsoleChessGame.Xadrez;
+
 namespace tabuleiro
 {
     public class Posicao
